@@ -2,9 +2,10 @@
 * Replace these with your OpenTok API key, a session ID for a routed OpenTok session,
 * and a token that has the publish role:
 */
-var API_KEY = '';
-var SESSION_ID = '';
-var TOKEN = '';
+var API_KEY = '45132082';
+var SESSION_ID = '2_MX40NTEzMjA4Mn5-MTQ0MDE3NTY0NDg1Nn5ZLzdVemZwcG9zZHlkbVBWY0p2NUZxRjJ-UH4';
+var TOKEN = 'T1==cGFydG5lcl9pZD00NTEzMjA4MiZzaWc9MTdjYWRiNTEyNWEzMDRkODEyNTk0Y2Y3NjBmNWNhMDY5YjgyY2U4NDpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTJfTVg0ME5URXpNakE0TW41LU1UUTBNREUzTlRZME5EZzFObjVaTHpkVmVtWndjRzl6Wkhsa2JWQldZMHAyTlVaeFJqSi1VSDQmY3JlYXRlX3RpbWU9MTQ0MDE3NTY3MyZub25jZT0wLjkzOTQxMDMzOTM1MjE0NTcmZXhwaXJlX3RpbWU9MTQ0Mjc2NzQyNyZjb25uZWN0aW9uX2RhdGE9';
+
 
 var TEST_TIMEOUT_MS = 15000; // 15 seconds
 
