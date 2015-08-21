@@ -24,7 +24,7 @@ To configure and test the app:
    for that session:
 
    ```
-   var API_KEY = '';
+   var MAGIC_NUM = '';
    var SESSION_ID = '';
    var TOKEN = '';
    ```
